@@ -6,7 +6,7 @@ Below is a combined summary of the attacks from both the Leaky Frontends and the
 
 **Combined Frontend Attacks Summary for White-Hats**
 
-Here’s a unified breakdown of frontend attacks from Security Vulnerabilities in Processor Frontends and their relevance to encrypted data vulnerabilities like those in the AEGIS paper ("AEGIS: A Fast Authenticated Encryption Algorithm"). I’ve merged attacks where they’re the same and split them where they differ, with explanations. The attack/defence code is paired with each exploit. This is Skylake-focused (e.g., Xeon Gold 6226, E-2286G), so let’s patch these holes or prep for HTB domination—current date: March 01, 2025.
+Here’s a unified breakdown of frontend attacks from Security Vulnerabilities in Processor Frontends and their relevance to encrypted data vulnerabilities like those in the AEGIS paper ("AEGIS: A Fast Authenticated Encryption Algorithm"). I’ve merged attacks where they’re the same and split them where they differ, with explanations. The attack/defence code is paired with each exploit. This is Skylake-focused (e.g., Xeon Gold 6226, E-2286G), current date: March 01, 2025.
 
 ---
 
